@@ -1,4 +1,4 @@
-<h2 align="left">💫 About Me:
+<h2 align="left">💫 About Me:<br>
 🤝 I’m looking for help with, by all love.<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact</h2>
 
 ###
