@@ -48,5 +48,3 @@
 <img href="https://raw.githubusercontent.com/jitterwiki/jitterwiki/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
----
